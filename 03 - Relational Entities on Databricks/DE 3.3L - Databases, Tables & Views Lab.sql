@@ -41,6 +41,23 @@
 
 -- COMMAND ----------
 
+--create database pablo_salanova
+
+--use database pablo_salanova
+
+--create temporary view dbs as show databases
+
+select * from test;
+
+use database pablo_salanova_wgzv_dbacademy_delp
+
+
+-- COMMAND ----------
+
+show databases like "pablo*""
+
+-- COMMAND ----------
+
 -- MAGIC %md <i18n value="306e4a60-45cf-40af-850f-4339700000b8"/>
 -- MAGIC 
 -- MAGIC 

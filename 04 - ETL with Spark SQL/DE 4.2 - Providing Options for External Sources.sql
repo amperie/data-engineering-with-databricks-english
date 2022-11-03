@@ -137,6 +137,10 @@ SELECT COUNT(*) FROM sales_csv
 
 -- COMMAND ----------
 
+
+
+-- COMMAND ----------
+
 DESCRIBE EXTENDED sales_csv
 
 -- COMMAND ----------

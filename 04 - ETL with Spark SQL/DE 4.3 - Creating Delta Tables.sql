@@ -165,6 +165,10 @@ CREATE OR REPLACE TABLE purchase_dates (
 
 -- COMMAND ----------
 
+select * from purchase_dates
+
+-- COMMAND ----------
+
 -- MAGIC %md <i18n value="13084a7f-10a0-453f-aa53-1f75a7e74dd9"/>
 -- MAGIC 
 -- MAGIC  

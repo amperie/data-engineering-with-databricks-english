@@ -41,6 +41,23 @@
 
 -- COMMAND ----------
 
+-- MAGIC %python
+-- MAGIC #dbutils.help()
+-- MAGIC 
+-- MAGIC dir(dbutils.library)
+
+-- COMMAND ----------
+
+--show databases
+
+--select current_database(), current_catalog(), current_timezone()
+
+--DESCRIBE SCHEMA dbacademy_pablo
+
+show tables in dbacademy_mcd
+
+-- COMMAND ----------
+
 -- MAGIC %md <i18n value="1cbf441b-a62f-4202-af2a-677d37a598b2"/>
 -- MAGIC 
 -- MAGIC 
